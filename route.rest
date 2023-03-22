@@ -1,0 +1,35 @@
+GET https://can-of-books-backend-3urh.onrender.com/books
+
+###
+
+GET https://can-of-books-backend-3urh.onrender.com/books/63e81d79e4dfc3a366e4ee24
+
+###
+
+POST https://can-of-books-backend-3urh.onrender.com/books
+Content-Type: application/json
+
+  {
+    "title": "An awful old book part 3",
+    "author": "Stephen King",
+    "image": "image/jpg",
+    "description": "A cowboy and his horse take a ride...",
+    "status": true
+  }
+
+###
+
+PUT https://can-of-books-backend-3urh.onrender.com/books/63f141b779fd740a711d4871
+Content-Type: application/json
+
+  {
+    "title": "This is a new title!"
+  }
+
+###
+
+DELETE https://can-of-books-backend-3urh.onrender.com/books/63eaa5f853b94b9d0d1bec11
+
+###
+
+GET https://can-of-books-backend-3urh.onrender.com/searchBooks?search=dog
