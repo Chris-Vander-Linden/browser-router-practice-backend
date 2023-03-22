@@ -5,7 +5,9 @@
 
 ## Overview
 
-This is the backend for the can of books project.  It will connect to our frontend, which can be found here: [https://github.com/EvaGraceSmith/can-of-books-frontend](https://github.com/EvaGraceSmith/can-of-books-frontend)
+This is the backend for the can of books project.  It will connect to the frontend, which can be found here: [https://github.com/Chris-Vander-Linden/browser-router-practice](https://github.com/Chris-Vander-Linden/browser-router-practice).
+
+The live site can be viewed here: [https://friendly-pixie-fadf61.netlify.app/](https://friendly-pixie-fadf61.netlify.app/).
 
 ## Getting Started
 
